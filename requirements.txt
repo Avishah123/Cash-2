@@ -4,3 +4,4 @@ numpy
 pyotp
 smartapi-python
 plotly
+logzero
